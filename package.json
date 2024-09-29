@@ -1,0 +1,18 @@
+{
+  "name": "mm24pl",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-dracula": "^0.2.0"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.38.1"
+  }
+}
