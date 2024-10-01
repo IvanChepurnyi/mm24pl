@@ -36,19 +36,19 @@ layout: fact
 layout: fact
 ---
 
-<img src="/cache-types.svg">
+<img src="public/cache-types.svg">
 
 ---
 layout: fact
 ---
 
-<img src="/cache-types-expensive.svg">
+<img src="public/cache-types-expensive.svg">
 
 ---
 layout: fact
 ---
 
-<img src="/cache-types-better.svg">
+<img src="public/cache-types-better.svg">
 
 --- 
 
@@ -332,6 +332,6 @@ layout: two-cols
 
 ## Help Ukraine 🇺🇦
 
-<img src="/qrcode-come-back-alive.png" class="w-20 ml-10 mt-8  shadow"  /> 
+<img src="public/qrcode-come-back-alive.png" class="w-20 ml-10 mt-8  shadow"  /> 
 
-<img src="/qrcode-zeilen.png"  class="w-20 ml-10 mt-8 shadow"  />
+<img src="public/qrcode-zeilen.png"  class="w-20 ml-10 mt-8 shadow"  />
